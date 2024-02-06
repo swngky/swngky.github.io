@@ -20,7 +20,9 @@ author: ngky2024
 ###############################################
 
 navbar-links:
-  About Kriya Yoga: "aboutkriyayoga"
+  About:
+    - About Kriya Yoga: "aboutkriyayoga"
+    - About Swamijee: "aboutswamijee"
   Articles: "articles"
   Tradition: "tradition"
   The Book: "thebook"
@@ -94,7 +96,7 @@ rss-description: Kriya Yoga
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "nityanandagirikriyayoga.com"
+url-pretty: ""
 
 # Add the website title to the title of every page
 title-on-all-pages: true
