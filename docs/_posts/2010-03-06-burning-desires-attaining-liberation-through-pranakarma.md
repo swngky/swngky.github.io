@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kriya-yoga for a Happy Life
+title: Burning Desires And Attaining Liberation Through Breath Technique (prāṇakarma)
 tags: [kriya yoga]
 author: Parama Pujya Swami Nityananda Giri
 ---
