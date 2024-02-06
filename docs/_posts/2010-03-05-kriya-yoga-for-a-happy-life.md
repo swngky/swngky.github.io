@@ -5,6 +5,8 @@ tags: [kriya yoga]
 author: Parama Pujya Swami Nityananda Giri
 ---
 
+<center><img src="/assets/img/swamiji_2.jpg"></center>
+
 ### Illusory World of Mind
 
 In present day world we all  have become slaves to our mind. Whatever we do, we do simply being swayed away  by our emotions, influenced by our thoughts and desires or being attracted by  allurements. But this should not be like this. We have to be master of our  mind. If we go according to the wrong ideas of our mind we will commit  mistakes. For example we may meet a person ugly in outlook and develop an  unwelcome attitude towards the person but the person may be very nice by  nature. This means we are deluded by the ideas of our mind and could not be  able to take a right decision. But all our activities are first done in mind  and then are expressed as speech and/or actions. And here our mind is cheating  us. Therefore we have to clean our mind so that we are not cheated.
