@@ -13,7 +13,7 @@
 title: Swami Nityananda Giri Kriya Yoga
 
 # Your name to show in the footer
-author: ngky2024
+author: swngky
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -96,7 +96,7 @@ rss-description: Kriya Yoga
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: ""
+# url-pretty: ""
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -114,7 +114,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -122,7 +122,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "kriya yoga,kriya,swami nityananda giri,kriya yoga book,Kriya Babaji,kriya yoga technique,lahiri mahasaya,babaji kriya yoga secrets,mahavatar babaji kriya yoga technique,nityananda giri,Swamiji,paramahansa yogananda, yogananda,kriya yoga initiation,kriya yoga practice,Kriya Yoga in Australia"
 
 ######################################
 # --- Colours / background image --- #
