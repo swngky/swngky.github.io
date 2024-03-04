@@ -40,4 +40,5 @@ He has first created the __prāņa__, the Life Force. From __prāņa__ he create
 
 __Prāņa__ is the first part out of the sixteen parts of the God. Everything has been  created from __prāņa__ and merges in __prāņa__ and to know the __prāņa__ we have to take the support of our breath, __prāņavāyu__. We have to learn __prāņopāsnā__,  worship of prāņa; by that our internal subtle organs viz. mind etc will  be pure, concentration will increase, intellect will be sharp and  discrimination capability will develop. That is yoga, which is the practice  part of yoga. That has been known as kriyā-yoga. This is the technique to  balance the exhalation, __prāņa__, and inhalation, __apāna__; this is technique of suspension of breath, __prāņāyāma__. This is the technique of  merging the __prāņa__ and __apāna__, inhalation and exhalation in to __vyāna__,  the air that wholly pervades in the body. And for higher yogis it is the technique of winning over __udāna__, the air in body that has upward trend.  These all are called Kriyā-yoga. If we practice then there will be no tension in our life, we will not become living dead-bodies. We will always remain in life. This is the key to the happy life.
 
-Copyright Swami Nityananda Giri
+
+<center>~*~*~</center>
