@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About Kriya Yoga
 ---
+
+<br/>
+<center>
+<h1>About Kriya Yoga</h1>
+</center>
 
 ## Introduction
 
