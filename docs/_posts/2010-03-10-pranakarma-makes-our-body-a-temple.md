@@ -56,5 +56,7 @@ One has to oblate, __juhvati__, the act of exhalation, __prāņam__, into that o
 
 This technique is described by the Lord in chapters four, five and again in details in chapter six of Śrīmad Bhagavad-Gītā. This is the yoga of meditation. In the words Bhagavatpāda Śri Śankarācārya this is internal practice for Knowledge.
 
-**From: The Science of Life-force**
-**(Copyright Swami Nityananda Giri)**
+From: The Science of Life-force
+More information can be found in the book [Kriya Yoga - The Science of Life Force](../thebook/)
+
+<center>~*~*~</center>

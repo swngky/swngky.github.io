@@ -55,8 +55,6 @@ In ancient India by reducing the breath rate people lived a long, healthy and pe
 
 A peaceful breath silences all the desires and angers of the mind and develops an intellect that can take right decisions. Our environment then becomes peaceful. This also results in material prosperity. Individual life, family life and social life become harmonious.
 
-<center>~*~*~</center>
-
 More information can be found in the book [Kriya Yoga - The Science of Life Force](../thebook/)
 
-
+<center>~*~*~</center>

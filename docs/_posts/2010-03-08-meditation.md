@@ -19,5 +19,4 @@ There are certain simple techniques one has to follow to practice meditation. On
 
 The most important aspects for meditation are breath practices and breath-awareness. This can be a Hamsa breath or a Kriya breath. In Kriya-yoga dharana begins with the breath, the inhalation and the exhalation. One should learn these form an advanced and experienced practitioner. Nowadays many new age techniques are found which are not in conformity with the scriptures. A new learner should check the authenticity of the technique from the scriptures and also ask for the rationale for following such a technique. If one blindly follows a master he/she may get cheated if that master does not follow a proper technique and has no proper mastery. An active breath practice can be followed by breath awareness and subtle pranic manifestations. Such pranayama(s) or kriyas will lead the practitioner to the state of pratyahara and then to the meditation trio, dharana, dhyana and Samadhi.
 
-
 <center>~*~*~</center>

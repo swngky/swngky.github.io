@@ -45,5 +45,7 @@ One has to shut all the sense objects like sound etc, the gaze is to be fixed in
 
 So all the sense objects or all the desires for enjoyments are to be shut down, such thoughts are not to be contemplated in the mind. How? By fixing the gaze between the eyebrows means one has to practice the concentration in __Ājñā Cakra__, in the place between the pituitary and the pineal, the life force is to be fixed in that place. That again, how? By balancing the exhalation, __prāṇa__ and the inhalation, __apāna__, within the nostrils means inside the body. This technique one has to learn and practice. This is the way to control the sense organs and the mind, this is the way to sharpen the intellect, and this is the way to be free from the desires, the anger and the fear. This is known as __prāṇavidyā__, the knowledge of the prāṇa; this is known as __prāṇopāsanā__, worshiping the __prāṇa__. This is Karma-sanyāsa yoga, yoga of renouncing the actions and their results. This is Kriyā-yoga, by doing this action, __kriyā__, one shall be renounced from the actions. By doing this breath technique the practitioner will know his __prāṇa__, know the Īśvara who is the First Born, the Hiraṇyagarbha that is the sum total of all the powers of knowledge and all the powers of action.
 
-**From: The Science of Life-force**
-**(Copyright Swami Nityananda Giri)**
+From: The Science of Life-force
+More information can be found in the book [Kriya Yoga - The Science of Life Force](../thebook/)
+
+<center>~*~*~</center>
