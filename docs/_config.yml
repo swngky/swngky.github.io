@@ -20,12 +20,14 @@ author: swngky
 ###############################################
 
 navbar-links:
-  About:
-    - About Kriya Yoga: "aboutkriyayoga"
+  Kriya Yoga:
+    - Introduction: "aboutkriyayoga"
+    - Purpose: "/2010-03-01-purpose-of-kriya/"
+    - Masters: "masters"
+    - Tradition: "tradition"
+    - Articles: "articles"
+    - The Book: "thebook"
     - About Swamijee: "aboutswamijee"
-  Articles: "articles"
-  Tradition: "tradition"
-  The Book: "thebook"
   Activities: "activities"
   Contact Us: "contactus"
   New Site: "https://rajahamsakriya.com/"
