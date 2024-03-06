@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
 title: About Kriya Yoga
+tags: [kriya yoga, kriya yoga introduction, introduction to kriya yoga, what is kriya yoga]
+author: Parama Pujya Swami Nityananda Giri
 ---
 
 ## Introduction
@@ -29,9 +31,9 @@ This is a simple technique and at the center stage is the breath. This is design
 
 This kriya-yoga technique will help the practitioner, _sadhaka_, in knowing his life. It is your breath, which is controlling your life. One can say the meaning of breath is life and the meaning of life is breath. How can it be so? Because what you are is due to your breath. Once your breath departs your body then you are no more here to complete your evolution into a divine being, you are in the grasp of death which is a temporary pause and the span of this pause depends on the life you just lived. Then you are again waiting for a human birth to complete your journey to the Self. All living beings are breathing. After you are born from your mother’s womb it is breath. Your life is hiding behind your breath. So do you think your life is like that of animals who are also breathing? No. Then why do we say our life is our breath? Because our mind, intellect and ego are all controlled by breath. You can find that for all moods of your mind, be it anger, frustration, sorrow, happiness, desires etc the mode of your breath changes. So for a mind in equanimity we need to breathe properly. That is the first lesson in yoga. One learns that through kriya-yoga.
 
-#### By: Rajahamsa Swami Nityananda Giri Maharaj
-#### From: Kriya-Yoga: The Science of Life-force
-#### Copyright Swami Nityananda Giri
+More information can be found in the book [Kriya Yoga - The Science of Life Force](../thebook/)
+
+<center>~*~*~</center>
 
 ---
 

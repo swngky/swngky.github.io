@@ -21,11 +21,12 @@ author: swngky
 
 navbar-links:
   Kriya Yoga:
-    - Introduction: "aboutkriyayoga"
+    - Introduction: "/2010-02-15-introduction/"
     - Purpose: "/2010-03-01-purpose-of-kriya/"
     - Masters: "masters"
     - Tradition: "tradition"
     - Articles: "articles"
+    - Videos: "videos"
     - The Book: "thebook"
     - About Swamijee: "aboutswamijee"
   Activities: "activities"
