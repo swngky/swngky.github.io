@@ -21,6 +21,12 @@ Swamijee explains in detail in a two part video series - What is Kriya Yoga ?
 * [क्रियायोग क्या है ? भाग - 1](https://www.youtube.com/watch?v=H4s4RVYZvEE){:target="_blank" rel="noopener"}
 * [क्रियायोग क्या है ? भाग - 2](https://www.youtube.com/watch?v=x3g9NaKdu_8){:target="_blank" rel="noopener"}
 
+## Discourse to Kriyavans on the day of initiation
+
+To kriyavans on the day of initiation Swamijee explains about Dhyana, Dharana, Sukha, Duhkha, Pleasure and sufferings, Cause of sufferings, How to get rid of sufferings.
+
+* [क्रियायोग दीक्षा प्रारम्भ सम्भाषण, ऋषिकेश - 08 नभेम्बर 2022, स्वामी नित्यानंद गिरि](https://www.youtube.com/watch?v=nqi0sZVx8Gk){:target="_blank" rel="noopener"}
+
 ## Kriya Yoga Techniques
 
 The videos about the various Kriya techniques shown below can be found here.
