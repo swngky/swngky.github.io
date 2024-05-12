@@ -27,6 +27,18 @@ To kriyavans on the day of initiation Swamijee explains about Dhyana, Dharana, S
 
 * [क्रियायोग दीक्षा प्रारम्भ सम्भाषण, ऋषिकेश - 08 नभेम्बर 2022, स्वामी नित्यानंद गिरि](https://www.youtube.com/watch?v=nqi0sZVx8Gk){:target="_blank" rel="noopener"}
 
+## Chitta and Vritti - The constituents of the mind (mind-stuff)
+
+Swamijee answers Kriyavan's question on "What is Chitta Vritti?". Swamijee explains - Before understanding about Vritti it is required to understand What is Chitta. The question is answered in a two part video series.
+
+In this first video Swamijee explains What is Chitta and further explains its constituents and types of Chitta for understanding of the practitioners of Kriyayoga meditation.
+
+* [चित्त क्या है, चित्त का प्रकार](https://www.youtube.com/watch?v=nGoUf8y9U8Y){:target="_blank" rel="noopener"}
+
+In this video Swamijee explains what is Vritti and types of Vrittis.
+
+* [चित्त वृत्ति, वृत्तियों का प्रकार](https://www.youtube.com/watch?v=8QZ4VLWEggY){:target="_blank" rel="noopener"}
+
 ## Kriya Yoga Techniques
 
 The videos about the various Kriya techniques shown below can be found here.
