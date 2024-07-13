@@ -58,7 +58,7 @@ This means our body is a microcosm and is a representation of the macrocosm. Whi
 The videos about the various Kriya techniques shown below can be found here.
 
 * [Kriya Yoga Techniques](../videos-kriya-yoga/). 
-  * [Nābhi Kriya](videos-kriya-yoga/#nabhi-kriya)
+  * [Nābhi Kriya](/videos-kriya-yoga/#nābhi-kriya)
   * [Guru Pranaam](/videos-kriya-yoga/#guru-pranaam)
   * [Khechari Mudra](/videos-kriya-yoga/#khechari-mudra)
   * [Hamsah Sādhana](/videos-kriya-yoga/#hamsah-sādhana)
