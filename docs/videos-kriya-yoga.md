@@ -11,7 +11,7 @@ It is strongly advised that these videos are for demonstration and clarification
 <center><h3>ॐ </h3></center>
 ---
 
-## Nābhi Kriya
+## Nabhi Kriya
 
 In the earlier days Nābhi Kriya was taught as a preliminary technique before teaching the actual Kriya Yoga techniques. Nābhi Kriya is used to prepare oneself for the Kriya Yoga techniques. Nābhi Kriya is a body cleaning technique.
 
