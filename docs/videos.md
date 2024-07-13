@@ -43,8 +43,10 @@ In this video Swamijee explains what is Vritti and types of Vrittis.
 
 Swamijee explains in Kriya Yoga tradition, in the Guru Pranaam technique a Kriyavan bows down to a Devata placed at each chakra. There have been differences across traditions in this matter. But fundamentally their message is the same.
 
-|| जाथ ब्रह्मण्डे तथा पिण्डे ||
-|| जाथा पिण्डे तथा ब्रह्मण्डे ||
+```
+जाथ ब्रह्मण्डे तथा पिण्डे
+जाथा पिण्डे तथा ब्रह्मण्डे
+```
 
 This means our body is a microcosm and is a representation of the macrocosm. Which essentially means all devatas are in our body. Swamijee explains in detail the significance of these devatas, what these devatas are, the constitution of the body.
 
