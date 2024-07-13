@@ -39,6 +39,18 @@ In this video Swamijee explains what is Vritti and types of Vrittis.
 
 * [चित्त वृत्ति, वृत्तियों का प्रकार](https://www.youtube.com/watch?v=8QZ4VLWEggY){:target="_blank" rel="noopener"}
 
+## Representation of devatas in the chakras
+
+Swamijee explains in Kriya Yoga tradition, in the Guru Pranaam technique a Kriyavan bows down to a Devata placed at each chakra. There have been differences across traditions in this matter. But fundamentally their message is the same.
+
+|| जाथ ब्रह्मण्डे तथा पिण्डे ||
+|| जाथा पिण्डे तथा ब्रह्मन्दे ||
+
+This means our body is a microcosm and is a representation of the macrocosm. Which essentially means all devatas are in our body. Swamijee explains in detail the significance of these devatas, what these devatas are, the constitution of the body.
+
+* [चक्रों में देवताओं के स्थान](https://www.youtube.com/watch?v=Vf78ehAMWQY){:target="_blank" rel="noopener"}
+
+
 ## Kriya Yoga Techniques
 
 The videos about the various Kriya techniques shown below can be found here.
